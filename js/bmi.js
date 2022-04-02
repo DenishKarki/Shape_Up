@@ -1,6 +1,7 @@
 var $ = function(id) {
     return document.getElementById(id);
 }
+//gjdkjfk
 var calculateBMI = function() {
     var feet = parseInt($("feet").value);
     var inches = parseInt($("inch").value);
